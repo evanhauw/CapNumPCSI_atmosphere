@@ -12,7 +12,7 @@ Résolution par intégration `odeint`
 > Calculer l'écart relatif maximal avec l'atmosphère isotherme et altitude 
 d'annulation de la pression.
 
-_Données qui peuvent changer:_ `P0, T0, g0, M, alpha`
+_Données qui peuvent changer :_ `P0, T0, g0, M, alpha`
 
 ## épisode II (S2) - Variation de g avec la gravité
 
@@ -21,7 +21,7 @@ _Données qui peuvent changer:_ `P0, T0, g0, M, alpha`
 > Calculer l'écart absolu maximal avec $g$ constant et altitude d'annulation de la pression.
 
 
-_Données qui peuvent changer:_ `P0, T0, g0, M, alpha`
+_Données qui peuvent changer :_ `P0, T0, g0, M, alpha`
 
 ## épisode III (S3) - Modèle d'atmosphère normalisée 
 
@@ -31,4 +31,4 @@ Lire https://fr.wikipedia.org/wiki/Atmosphère_normalisée
 > 
 > Calculer l'écart relatif maximal avec atmosphère isotherme
 
-_Données qui peuvent changer:_ `P0, T0, g0, M`
+_Données qui peuvent changer :_ `P0, T0, g0, M`
