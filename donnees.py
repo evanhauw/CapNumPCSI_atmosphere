@@ -12,7 +12,7 @@ T0 = 273.16 + 15
 
 
 def g(z):
-    """Accélération de la pesanteur constante"""
+    """Accélération de la pesanteur"""
     return g0 * (R_T / (R_T + z))**2
 
 z11 = 11000
